@@ -64,6 +64,8 @@ DOMAIN-SUFFIX,d.adguard-dns.com
 
 # 域名服务
 DOMAIN-SUFFIX,godaddy.com
+# > 域名解析
+DOMAIN-SUFFIX,cloudflare-dns.com
 
 # vpn相关
 DOMAIN-SUFFIX,bajie.one
