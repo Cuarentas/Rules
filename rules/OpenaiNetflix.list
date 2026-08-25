@@ -1,7 +1,7 @@
 # 内容: 🤖 AI｜奈飞 规则集
 # 备注: 本列表为OpenAi和Netflix域名，其他移步至https://github.com/mphin/ProxyTools
-# 更新: 2024年04月02日13:20:09
-# 数量: 46条
+# 更新: 2026年08月25日15:08:57
+# 数量: 51条
 
 # OpenAi
 DOMAIN-SUFFIX,api.statsig.com
@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,stripe.com
 # Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
