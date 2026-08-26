@@ -3798,6 +3798,7 @@ payload:
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,opendemocracy.net
   - DOMAIN-SUFFIX,opendn.xyz
+  - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,openervpn.in
   - DOMAIN-SUFFIX,openid.net
   - DOMAIN-SUFFIX,openleaks.org
